@@ -2,7 +2,7 @@
 
 <h4 align="center"> ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 </h4>
 
-<p align="center"><a href="https://t.me/DESISWAGGERHU"><img src="https://graph.org/file/ae522353ddffb830dd83e.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/OXYEGN474"><img src="https://graph.org/file/ae522353ddffb830dd83e.jpg" width="400"></a></p>
 
 > ⭐️ Thanks to everyone for using this op ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍. That is the greatest pleasure we have !
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<a href="https://t.me/DESISWAGGERHU"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/PRADHAN474"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
 
