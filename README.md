@@ -7,10 +7,10 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg"/>](https://github.com/PRADHAN474)
+[<img src="https://graph.org/file/50a07fe26a22a073f2605.jpg"/>](https://github.com/PRADHAN474)
 
         
-<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢ </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=PRADHAN474&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/PRADHAN474)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADHAN474&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/PRADHAN474)
 
