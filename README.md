@@ -1,67 +1,41 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-    <style>
-        body {
-            text-align: center;
-            background-color: #000000;
-            color: #ffffff;
-            font-family: Arial, sans-serif;
-        }
+# Hello There! 👋 Welcome to my GitHub Profile
 
-        img.profile-pic {
-            width: 70px;
-            border-radius: 50%;
-        }
+I'm Zaid, a 17-year-old developer from Delhi, India. I'm passionate about programming and exploring new technologies.
 
-        img.stats-image {
-            width: 49%;
-        }
+## Languages I'm Using/Learning
 
-        p.visitors-count {
-            margin-top: 20px;
-        }
-    </style>
-</head>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<body>
-    <h1>
-        <img class="profile-pic" src="https://te.legra.ph/file/f708eb8020237a65e837b.png" alt="Profile Pic">
-        Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢
-    </h1>
-    <p class="visitors-count">
-        <b>ᴠɪsɪᴛᴏʀs</b><br>
-        <img src="https://profile-counter.glitch.me/PRADHAN474/count.svg" alt="Visitors Count">
-    </p>
+## Projects
 
-    <a href="https://github.com/PRADHAN474">
-        <img src="https://graph.org/file/50a07fe26a22a073f2605.jpg" alt="GitHub Analytics">
-    </a>
+### [ZAID-USERBOT](https://github.com/ITZ-ZAID/ZAID-USERBOT)
+![ZAID-USERBOT](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham)
 
-    <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs 🦋⃟ ᴠͥɪͣᴘͫ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋͜͡•─⃛͢</h1>
-    <div style="display: flex; justify-content: space-between;">
-        <a href="https://github.com/PRADHAN474">
-            <img class="stats-image"
-                src="https://github-readme-stats.vercel.app/api?username=PRADHAN474&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000"
-                alt="GitHub Stats">
-        </a>
-        <a href="https://github.com/PRADHAN474">
-            <img class="stats-image"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=PRADHAN474&theme=chartreuse-dark&hide_border=True&bg_color=000000"
-                alt="GitHub Streak Stats">
-        </a>
-    </div>
+### [Telethon-Music](https://github.com/ITZ-ZAID/Telethon-Music)
+![Telethon-Music](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telethon-Music&cache_seconds=86400&theme=gotham)
 
-    <img src="https://github.com/Noob-Mukesh/Noob-Mukesh/blob/master/resources/hr.gif" alt="Divider">
+### [Zaid-Vc-Player](https://github.com/Itz-Zaid/Zaid-Vc-Player)
+![Zaid-Vc-Player](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Zaid-Vc-Player&cache_seconds=86400&theme=gotham)
 
-    <h1><img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" class="profile-pic" alt="Contact Me"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</h1>
-    <a href="https://tg://openmessage?user_id=5059737154">
-        <img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" alt="Telegram">
-    </a>
-    <a href="https://github.com/PRADHAN474">
-        <img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" alt="GitHub">
-    </a>
-</body>
+### [Video-Player](https://github.com/Itz-Zaid/Video-Player)
+![Video-Player](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Video-Player&cache_seconds=86400&theme=gotham)
 
-</html>
+### [Telegram](https://github.com/Itz-Zaid/Telegram)
+![Telegram](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Telegram&cache_seconds=86400&theme=gotham)
+
+### [Banall](https://github.com/Itz-Zaid/Banall)
+![Banall](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Banall&cache_seconds=86400&theme=gotham)
+
+## Connect with Me
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-ZAID)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Timesisnotwaiting)
+
+## My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZ-ZAID&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-ZAID&layout=compact&theme=midnight-purple&hide=Css)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ITZ-ZAID)
