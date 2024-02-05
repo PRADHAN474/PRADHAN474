@@ -4,6 +4,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>[⚡] 𝐓𝐇𝐄 𝗢𝗫𝗬𝗚𝗘𝗡 𝐁𝐎𝐓𝐒 [⚡]</b></h1>
 <p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
+</p>
+
+[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/PRADHAN474)
 
 
 # Some Projects
