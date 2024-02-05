@@ -1,5 +1,5 @@
 
-<h3><img  style="align-item" :"center" src="https://te.legra.ph/file/7bc5551374ee010ba57d2.jpg" width="80px" height="70%">
+<h3><img  style="align-item" :"center" src="https://te.legra.ph/file/7bc5551374ee010ba57d2.jpg" width="90px" height="80%">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗢𝗫𝗬𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
