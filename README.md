@@ -1,5 +1,30 @@
-<h1> <img  style="align-item" :"center" src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="50px" height="60%"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 </h1>
-<p align="center">
+img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%">
+   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝗢𝗫𝗬𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>[⚡] 𝐓𝐇𝐄 𝗢𝗫𝗬𝗚𝗘𝗡 𝐁𝐎𝐓𝐒 [⚡]</b></h1>
+<p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
+
+
+# Some Projects
+
+<a href="https://github.com/PRADHAN474/ALSPAM.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRADHAN474&repo=ALSPAM&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/PRADHAN/OXYMUSIC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OXYGEN&repo=OXYMUSIC&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/PRADHAN474/managerbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRADHAN474&repo=managerbot&cache_seconds=86400&theme=gotham">
+</a>
+
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<a href="https://t.me/BWANDARLOK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+</details>
+
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
 </p>
