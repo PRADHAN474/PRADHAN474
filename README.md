@@ -28,11 +28,7 @@
 <a href="https://t.me/BWANDARLOK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/PRADHAN474/count.svg" />
-</p>
-
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/PRADHAN474)
+    
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
