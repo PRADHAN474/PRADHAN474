@@ -34,7 +34,7 @@
 </a>
 
 
-<a href="https://github.com/PRADHAN474/managerbot">
+<a href="https://github.com/PRADHAN474/OXYGEN">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRADHAN474&repo=managerbot&cache_seconds=86400&theme=gotham">
 </a>
 
